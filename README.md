@@ -14,7 +14,7 @@ This project is a machine learning model for classifying SMS messages as spam or
 - Real-time prediction of spam messages.
 
 ### Dataset
-The model is trained on the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection), which contains a collection of SMS messages labeled as spam or ham.
+The model is trained on the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), which contains a collection of SMS messages labeled as spam or ham.
 
 ### Technologies Used
 - Python
@@ -30,7 +30,7 @@ The model is trained on the [SMS Spam Collection Dataset](https://archive.ics.uc
 4. Enter a message in the provided text box to classify it as spam or non-spam.
 
 ### Author
-[Your Name]
+Mohammad Shuaib
 
 ### Acknowledgements
 This project is inspired by the work done in the field of natural language processing and machine learning for text classification tasks. Special thanks to the creators of the SMS Spam Collection Dataset.
